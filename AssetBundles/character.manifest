@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 3019801908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e2cbac41bac4431fa1f6add9c2c549f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30ac68da64450437936752c693123d8c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f58997e63e8e20e40ac5ec316455d9c1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d9301872a5530b4f9d6b8a4036744aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 652300aecb5f3474a80602fd3adf1376, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+Assets:
+- Assets/Character Boys/Moving/male_1.prefab
+- Assets/Character Girls/Moving/female_1.prefab
+- Assets/Character Boys/Moving/male_3.prefab
+- Assets/Character Boys/Moving/male_2.prefab
+- Assets/Character Boys/Moving/male_4.prefab
+- Assets/Character Girls/Moving/female_4.prefab
+- Assets/Character Girls/Moving/female_2.prefab
+- Assets/Character Girls/Moving/female_3.prefab
+Dependencies: []

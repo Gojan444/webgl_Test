@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1791104573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e062a55a81f5d4af054306f4a1760407
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78995a591a1b9aa799b3f170db02aa70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d9301872a5530b4f9d6b8a4036744aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 652300aecb5f3474a80602fd3adf1376, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+Assets:
+- Assets/Character Girls/Moving/female_1.prefab
+Dependencies: []
