@@ -10,6 +10,12 @@
     <script src="Build/UnityLoader.js"></script>
     <script>
       var unityInstance = UnityLoader.instantiate("unityContainer", "Build/html.json", {onProgress: UnityProgress});
+      
+      function direccion(url)
+        {   
+            unityInstance.SendMessage('ManagerInformation','Url',url);
+        }
+      
     </script>
   </head>
   <body>
@@ -20,6 +26,15 @@
         <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
         <div class="title">TheIsland</div>
       </div>
+     
+      <script>
+          function ini()
+          {
+              direccion("https://raw.githubusercontent.com/Gojan444/webgl_Test/blob/master/AssetBundles/character");
+          }
+          setTimeout( "ini()", 15000 );
+      </script>
+      
     </div>
   </body>
 </html>
